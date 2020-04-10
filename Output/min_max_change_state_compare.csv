@@ -1,0 +1,7 @@
+State,Change Type,Change amount,Avg poverty rate,Correlation Factor
+Georgia,Min Change,$3.55,15.45,0.55
+Wyoming,Min Change,$3.95,10.715,-0.14
+Virginia,Min Change,$5.65,10.36,0.9
+Massachusetts,Max Change,$9.40,10.27,0.57
+Washington,Max Change,$9.40,11.69,0.64
+District of Columbia,Max Change,$10.10,17.85,0.19
